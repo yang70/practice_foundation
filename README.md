@@ -6,7 +6,7 @@ By [Matthew Yang](http://www.matthewgyang.com).
 Simple app that takes advantage of the [Foundation](http://foundation.zurb.com/) front end framework.
 
 ## Installation
-For use in a Rails app:
+To use Foundation in a Rails app:
 
 Add the gem to your `Gemfile`
 ```ruby
